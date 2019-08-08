@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExemplodeSP</string>
+    <string name="informe_seu_usuario">informe_seu_usuario</string>
+    <string name="informe_sua_senha">informe_sua_senha</string>
+    <string name="manetr_conectado">manter_conectado</string>
+    <string name="manter_conectado">manter_conect</string>
+</resources>
